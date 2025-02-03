@@ -1,0 +1,12 @@
+{
+  "name": "result-budlers",
+  "version": "1.0.0",
+  "description": "df",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
